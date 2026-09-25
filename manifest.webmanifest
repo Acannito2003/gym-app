@@ -1,0 +1,22 @@
+{
+  "name": "Gym",
+  "short_name": "Gym",
+  "start_url": "/gym-app/",
+  "scope": "/gym-app/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E0F12",
+  "theme_color": "#0E0F12",
+  "icons": [
+    {
+      "src": "/gym-app/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/gym-app/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
